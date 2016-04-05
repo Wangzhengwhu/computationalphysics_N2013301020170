@@ -43,6 +43,7 @@ for x in xrange(1,10):
 
 ##[homework 3](https://github.com/Wangzhengwhu/computationalphysics_N2013301020170-2-)  
 ##[homework 4](https://github.com/Wangzhengwhu/Homework-4)   
-##[homework 5](https://github.com/Wangzhengwhu/Homework-5/blob/master/README.md)
+##[homework 5](https://github.com/Wangzhengwhu/Homework-5/blob/master/README.md)  
+##[homework 6](https://github.com/Wangzhengwhu/Homework-6/tree/master)  
 
 
