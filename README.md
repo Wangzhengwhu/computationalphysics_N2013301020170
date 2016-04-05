@@ -1,5 +1,4 @@
 # computationalphysics_N2013301020170
-# Cmd Markdown （1）
 
 
 
@@ -40,8 +39,9 @@ for x in xrange(1,10):
 
 最后来说说这门课吧，我觉得计算物理这门课听老师说的比较有趣，更是他极力地向我们推荐liux系统，但是看到好多小伙伴装新系统结果导致原系统也崩溃的情况，的确打击我装新系统的欲望。
 
-[1]: https://raw.githubusercontent.com/caihao/computational_physics_whu/7d7b4c0cbd5a32db80a8458729c1aff754eaf743/MomKm1.png
+[1]: https://raw.githubusercontent.com/caihao/computational_physics_whu/7d7b4c0cbd5a32db80a8458729c1aff754eaf743/MomKm1.png   
 
+##[homework 3](https://github.com/Wangzhengwhu/computationalphysics_N2013301020170-2-)  
 ##[homework 4](https://github.com/Wangzhengwhu/Homework-4)   
 ##[homework 5](https://github.com/Wangzhengwhu/Homework-5/blob/master/README.md)
 
